@@ -1,5 +1,5 @@
 # ApiUsuario
-Api de usuario de consulta, alteração de dados, cadastro de dado e exclusão.
+Api de usuario de consulta, alteração de dados, cadastro de dados e exclusão.
 
 
 
